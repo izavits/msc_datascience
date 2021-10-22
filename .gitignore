@@ -1,0 +1,15 @@
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+venv/
+
+# Other
+.DS_Store
+
+# Python stuff
+__pycache__/
+
+# Outputs
+tree.dot
+tree_model.txt
