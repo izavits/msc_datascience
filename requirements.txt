@@ -10,3 +10,5 @@ apriori_python==1.0.4
 gensim==3.8.3
 dataprep==0.4.0
 Faker==9.8.2
+pgmpy==0.1.16
+daft==0.1.2
