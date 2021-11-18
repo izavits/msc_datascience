@@ -27,6 +27,12 @@ Otherwise, copy and paste the scripts to Google Colab.
 - discretization with k means
 - Exploratory data analysis (EDA)
 
+## Classification
+
+- decision trees for discretization, classification, rule extraction
+- bayesian network
+- KNN
+
 ## Other
 
 - data playground
