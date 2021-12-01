@@ -31,6 +31,7 @@ Otherwise, copy and paste the scripts to Google Colab.
 
 - decision trees for discretization, classification, rule extraction
 - bayesian network
+- SVM
 - KNN
 
 ## Other
