@@ -34,6 +34,11 @@ Otherwise, copy and paste the scripts to Google Colab.
 - SVM
 - KNN
 
+## Clustering
+
+- clustering examples with K-means, hierarchical clustering and DBSCAN
+- Silhouette coefficient examples
+
 ## Other
 
 - data playground
