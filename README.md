@@ -39,6 +39,10 @@ Otherwise, copy and paste the scripts to Google Colab.
 - clustering examples with K-means, hierarchical clustering and DBSCAN
 - Silhouette coefficient examples
 
+## Frequent itemsets
+
+- apriori implementation and example
+
 ## Other
 
 - data playground
