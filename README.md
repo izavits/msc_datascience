@@ -42,6 +42,7 @@ Otherwise, copy and paste the scripts to Google Colab.
 ## Frequent itemsets
 
 - apriori implementation and example
+- movie recommendation example
 
 ## Other
 
