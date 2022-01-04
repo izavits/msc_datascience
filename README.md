@@ -44,6 +44,10 @@ Otherwise, copy and paste the scripts to Google Colab.
 - apriori implementation and example
 - movie recommendation example
 
+## Outlier analysis
+
+- outlier examples with statistical assumptions, boxplot, DBSCAN and Isolation Forest
+
 ## Other
 
 - data playground
