@@ -48,6 +48,12 @@ Otherwise, copy and paste the scripts to Google Colab.
 
 - outlier examples with statistical assumptions, boxplot, DBSCAN and Isolation Forest
 
+## Text
+
+- text classification with naive bayes
+- topic modeling with LDA and information retrieval
+- word2vec example with pre-trained embeddings
+
 ## Other
 
 - data playground
