@@ -6,9 +6,10 @@ PyWavelets==1.1.1
 scikit-learn==0.23.2
 scipy==1.5.4
 seaborn==0.11.0
-apriori_python==1.0.4
 gensim==3.8.3
 dataprep==0.4.0
 Faker==9.8.2
 pgmpy==0.1.16
 daft==0.1.2
+ktrain==0.28.3
+tensorflow==2.7.0
