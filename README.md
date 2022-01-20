@@ -53,6 +53,7 @@ Otherwise, copy and paste the scripts to Google Colab.
 - text classification with naive bayes
 - topic modeling with LDA and information retrieval
 - word2vec example with pre-trained embeddings
+- language models example with simple n-grams, MLE and smoothing
 
 ## Other
 
