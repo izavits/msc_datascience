@@ -13,3 +13,4 @@ pgmpy==0.1.16
 daft==0.1.2
 ktrain==0.28.3
 tensorflow==2.7.0
+sweetviz==2.1.4
