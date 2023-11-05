@@ -15,3 +15,4 @@ ktrain==0.28.3
 tensorflow==2.7.0
 sweetviz==2.1.4
 mlxtend==0.21.0
+category-encoders==2.6.3
