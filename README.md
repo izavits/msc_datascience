@@ -24,6 +24,7 @@ Otherwise, copy and paste the scripts to Google Colab.
 - feature selection 
 - principal component analysis (PCA)
 - normalization
+- categorical encoding
 - discretization with k means
 - Exploratory data analysis (EDA)
 
