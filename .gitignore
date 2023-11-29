@@ -16,3 +16,4 @@ tree_model.txt
 
 # Data
 data/example.db
+data/GoogleNews-vectors-negative300.bin
