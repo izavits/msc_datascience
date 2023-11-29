@@ -13,3 +13,6 @@ __pycache__/
 # Outputs
 tree.dot
 tree_model.txt
+
+# Data
+data/example.db
